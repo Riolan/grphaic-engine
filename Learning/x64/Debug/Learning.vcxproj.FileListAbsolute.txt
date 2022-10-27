@@ -1,0 +1,2 @@
+C:\Users\Rio\Desktop\C\Learning\x64\Debug\Learning.exe
+C:\Users\Rio\Desktop\C\Learning\x64\Debug\Learning.pdb
